@@ -1,1 +1,2 @@
 # dszd-core
+npm publish
