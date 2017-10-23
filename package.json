@@ -1,7 +1,7 @@
 {
   "name": "dszd-core",
   "version": "1.0.0",
-  "description": "zp-core",
+  "description": "dszd-core",
   "main": "lib/index.js",
   "scripts": {
     "clean": "rimraf dist",
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/summerfallow/zp-core.git"
+    "url": "https://github.com/summerfallow/dszd-core.git"
   },
   "author": "daishuzhudai",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/summerfallow/zp-core/issues"
+    "url": "https://github.com/summerfallow/dszd-core/issues"
   },
-  "homepage": "https://github.com/summerfallow/zp-core",
+  "homepage": "https://github.com/summerfallow/dszd-core",
   "dependencies": {
     "antd-mobile": "^1.3.0",
     "autoprefixer": "^7.1.1",
